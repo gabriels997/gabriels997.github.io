@@ -19,6 +19,14 @@ h2 {
     margin-left: 10px;
 }
 
+.projeto.placeholder {
+  font-style: italic;
+  color: #777;
+  background-color: #fafafa;
+  border-style: dashed;
+}
+
+
 .projeto {
   background-color: white;
   border: 1px solid #ddd;
